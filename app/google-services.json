@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722669246140",
+    "project_id": "pesan-31d98",
+    "storage_bucket": "pesan-31d98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722669246140:android:ecec01518a4b60ba82e2b9",
+        "android_client_info": {
+          "package_name": "com.example.pesan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722669246140-vja2dnvdil5pghc2a8nevfivoh8jgo45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO48l_QcY8e6eI9SKYyILNv4jR0DQ23A8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722669246140-vja2dnvdil5pghc2a8nevfivoh8jgo45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
